@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "808e01a9472f2e9f8c671c33436cad39",
+    "revision": "bc331259fe188994c26061ff1dd66256",
     "url": "/maagwiin.github.io/index.html"
   },
   {
-    "revision": "f037c77bf973813e444a",
+    "revision": "03b9f09e3b05cee51742",
     "url": "/maagwiin.github.io/static/css/main.7d13d2f7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maagwiin.github.io/static/js/2.2f1ecaff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f037c77bf973813e444a",
-    "url": "/maagwiin.github.io/static/js/main.6b0f3a4f.chunk.js"
+    "revision": "03b9f09e3b05cee51742",
+    "url": "/maagwiin.github.io/static/js/main.2b1aae25.chunk.js"
   },
   {
     "revision": "3cf3f9888684f669f272",
